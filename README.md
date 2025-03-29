@@ -5,8 +5,8 @@
 - [📍 Descripción](#descripción)
   
 - [📁 Estructura del Proyecto](#structur)
-  - [📂 Especificación del Módulo](#especificación-del-módulo)  
-  - [📂 Configuración](#configuración)  
+  - [📂 Aspectos Tecnicos](#especificación-del-módulo)  
+  - [📂 Documentacion](#configuración)  
 
 
 - [📡 Teoría](#teoría)
