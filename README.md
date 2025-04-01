@@ -22,9 +22,16 @@
 ## 📍 Descripción
 <a id="descripción"></a>
 
-Este proyecto tiene como objetivo desarrollar un sistema de comunicaciones eléctricas basado en el protocolo APRS (Automatic Packet Reporting System) utilizando una ESP32. APRS es un protocolo de comunicación digital utilizado en radioaficionados, monitoreo de activos y redes de sensores, permitiendo la transmisión de paquetes de datos a través de radiofrecuencia.
-Este proyecto puede ser aplicado en el seguimiento de vehículos, estaciones meteorológicas, comunicaciones de emergencia y exploraciones en áreas remotas sin acceso a infraestructura de telecomunicaciones convencional.
+<details>
+  <summary>📜 Descripción</summary>
 
+  Este proyecto tiene como objetivo desarrollar un sistema de comunicaciones eléctricas basado en el protocolo APRS (Automatic Packet Reporting System) utilizando una ESP32.  
+
+  APRS es un protocolo de comunicación digital utilizado en radioaficionados, monitoreo de activos y redes de sensores, permitiendo la transmisión de paquetes de datos a través de radiofrecuencia.  
+
+  Este proyecto puede ser aplicado en el seguimiento de vehículos, estaciones meteorológicas, comunicaciones de emergencia y exploraciones en áreas remotas sin acceso a infraestructura de telecomunicaciones convencional.
+
+</details>
 
 ---
 
