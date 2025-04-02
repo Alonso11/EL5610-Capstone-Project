@@ -5,8 +5,8 @@
 - [📍 Descripción](#descripción)
   
 - [📁 Estructura del Proyecto](#structur)
-  - [📂 Aspectos Tecnicos](#especificación-del-módulo)  
-  - [📂 Documentacion](#configuración)  
+  - [📂 Aspectos Técnicos](#especificación-del-módulo)  
+  - [📂 Documentación](#configuración)  
 
 
 - [📡 Teoría](#teoría)
@@ -38,21 +38,45 @@
 ## 📁 Estructura del Proyecto
 <a id="structur"></a>
 
+```
+Estructura del Proyecto
+│  
+└───Documentación
+│   │
+│   └───Reporte
+│   │   
+│   └───Referencias_papers
+│   
+└───Aspectos Técnicos
+    │       
+    └───Especificación del Módulo
+    │   README.md
+    │   
+    └───Configuración   
+        │
+        └───LoRa_APRS_Tracker-2.2.3
+
+ README.md
+```
+
+
+
 <details>
 
-<summary>📂 Especificación del Módulo</summary>
+<summary>📂 Aspectos Técnicos</summary>
 <a id="especificación-del-módulo"></a>
+Información relevante de la especificación y aplicación del proyecto.
 
-Detalles sobre la especificación del módulo.
 </details>
 
 
 <details>
 
-<summary> 📂 Configuración</summary>
+<summary> 📂 Documentación</summary>
 <a id="configuración"></a>
 
-Instrucciones de configuración.
+Archivos creados a lo largo de las etapas de diseño del proyecto.
+
 </details>
 
 ---
@@ -86,6 +110,7 @@ Ese paquete se modula, normalmente mediante **AFSK 1200 baud** o **PSK31**, y se
 
 <details>
   <summary>Mostrar Agradecimientos</summary>
+  - Ricardo Guzman (CA2RXU)
 </details>
 
 ---
