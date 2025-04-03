@@ -93,30 +93,34 @@ Archivos creados a lo largo de las etapas de diseño del proyecto.
   - Radioaficionados.
 
 
-  **Protocolos que utiliza APRS**
+  #### **Protocolos que utiliza APRS**
 
   APRS está construido sobre el protocolo AX.25, este se encuentra en la capa 2 del modelo OSI (Data Link Layer). La comunicación se hace a través de paquetes llamados frames, APRS usa **Unnumbered Frame (U frame)**.
 
 ![image](https://github.com/user-attachments/assets/3abebb41-3f9a-4ae7-95fa-1a45c566eae7)
 
 Ese paquete se modula, normalmente mediante **AFSK 1200 baud** o **PSK31**, y se transmite. Puede ser repetido por una estación **digipeater** o recibido por un **iGate**.
+
+
+  #### **Elementos que componen un sistema APRS**
+  - `Rastreadores APRS`: Son dispositivos que recopilan y transmiten datos a través de la red APRS. 
+  - `Digipeaters`: Los digipeaters actúan como estaciones de retransmisión (repetidores)
+  - `APRS-IS`: es una red troncal basada en Internet que permite la transmisión de datos APRS a través de Internet. 
+
 </details>
 
 <details>
   
   <summary>⚙LoRa</summary>
   <a id="protocolo-aprs"></a>
-**¿Qué es?** 
-Protocolo de cumunicacion queue utiliza
-a proprietary spread spectrum modulation that is similar to
-and a derivative of chirp spread spectrum (CSS) modulation.
-Each symbol is represented by a cyclic shifted chirp over the
-bandwidth centered around the base frequency. The spreading
-factor (SF) is a selectable radio parameter from 5 to 12[13] and
-represents the number of bits sent per symbol and in addition
-determines how much the information is spread over time.
 
+  #### ¿Qué es? 
 
+Es una técnica de modulación inalámbrica derivada de la tecnología Chirp Spread Spectrum (CSS). Cada símbolo se representa mediante un chirp cíclico desplazado sobre el ancho de banda centrado en la frecuencia base. El factor de (SF) es un parámetro de radio seleccionable de 5 a 12[13] y representa el número de bits enviados por símbolo y además determina el grado de dispersión de la información en el tiempo.
+
+#### **Frecuencia utilizadas**
+
+LoRa utiliza bandas de radiofrecuencia de subgigahercios libres de licencia EU868 (863-870/873 MHz) en Europa; AU915/AS923-1 (915-928 MHz) en Sudamérica; US915 (902-928 MHz) en Norteamérica; IN865 (865-867 MHz) en la India; y AS923 (915-928 MHz) en Asia;[8]
 
 </details>
 
@@ -127,7 +131,14 @@ determines how much the information is spread over time.
   
   <summary>⚖️ Legislación</summary>
   <a id="legis"></a>
+  
+#### **Permisos requeridos para operar un sistema LoRa/APRS**
+Para el caso de un persona que desee utilizar un sistema LoRa o APRS la SUTEL y el ministerio de ciencia, innovación, tecnología y telecomunicaciones les exige:
 
+  - micitt robc 001 licencia de radioaficionado y operación de la banda ciudadana
+  - micitt robc 002 licencia de radioaficionado y operación de la banda ciudadana
+  - MICITT–DCNT-DNPT-FORM-001-Formulario de solicitud de permiso de uso de frecuencias
+  - MICITT–DCNT-DNPT-FORM-007-Formulario de solicitud de permisos para fines científicos
 
 </details>
 
