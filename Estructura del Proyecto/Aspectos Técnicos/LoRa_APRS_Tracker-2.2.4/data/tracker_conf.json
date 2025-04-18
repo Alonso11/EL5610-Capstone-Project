@@ -1,32 +1,32 @@
 {
 	"beacons": [
 		{
-			"callsign": "NOCALL-7",
+			"callsign": "ti0ie4-7",
 			"gpsEcoMode": false,
 			"symbol": "[",
 			"overlay": "/",
 			"micE": "",
-			"comment": "",
+			"comment": "Integrador Grupo 4 https://github.com/Alonso11/EL5610-Capstone-Project",
 			"smartBeaconActive": true,
 			"smartBeaconSetting": 0	
 		},
 		{
-			"callsign": "NOCALL-7",
+			"callsign": "ti0ie4-7",
 			"gpsEcoMode": false,
 			"symbol": ">",
 			"overlay": "/",
 			"micE": "",
-			"comment": "",
+			"comment": "Integrador Grupo 4 https://github.com/Alonso11/EL5610-Capstone-Project",
 			"smartBeaconActive": true,
 			"smartBeaconSetting": 2
 		},
 		{
-			"callsign": "NOCALL-7",
+			"callsign": "ti0ie4-7",
 			"gpsEcoMode": false,
 			"symbol": "b",
 			"overlay": "/",
 			"micE": "",
-			"comment": "",
+			"comment": "Integrador Grupo 4 https://github.com/Alonso11/EL5610-Capstone-Project",
 			"smartBeaconActive": true,
 			"smartBeaconSetting": 1
 		}
