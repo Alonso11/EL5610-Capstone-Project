@@ -1,19 +1,15 @@
-# CA2RXU LoRa APRS Tracker/Station
+# TI0IE4-7 Sistema de Rastreo de vehículos con Lora/APRS Tracker
 
-This firmware is for using ESP32 based boards with LoRa Modules and GPS to live in the APRS world.
+This firmware is for using ESP32 based boards with LoRa Modules and GPS to live in the APRS world for track vehicles.
 
-![Screenshot](https://github.com/richonguzman/LoRa_APRS_Tracker/blob/main/images/OledScreen2.jpeg)
+![Screenshot](https://github.com/Alonso11/EL5610-Capstone-Project/tree/main/Estructura%20del%20Proyecto/Aspectos%20T%C3%A9cnicos/LoRa_APRS_Tracker-2.2.4/images/tracker_grupo4.jpeg)
 
 __(NOTE: To use Tx/Rx capabilities of this tracker you should have also an Tx/Rx <a href="https://github.com/richonguzman/LoRa_APRS_iGate" target="_blank">LoRa iGate</a> near you)__
 <br />
 
 ____________________________________________________
 
-## You can support this project to continue to grow:
 
-[<img src="https://github.com/richonguzman/LoRa_APRS_Tracker/blob/main/images/github-sponsors.png">](https://github.com/sponsors/richonguzman)     [<img src="https://github.com/richonguzman/LoRa_APRS_Tracker/blob/main/images/paypalme.png">](http://paypal.me/richonguzman)
-
-<br />
 
 # WEB FLASHER/INSTALLER is <a href="https://richonguzman.github.io/lora-tracker-web-flasher/installer.html" target="_blank">here</a>
 
@@ -151,4 +147,3 @@ ____________________________________________________
 - https://github.com/dl9sau/TTGO-T-Beam-LoRa-APRS : Thomas - DL9SAU for the Kiss <> TNC2 lib
 ____________________________________________________
 
-# Hope You Enjoy this, 73! CA2RXU, Valparaiso, Chile
